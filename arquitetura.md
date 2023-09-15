@@ -1,5 +1,5 @@
 # Aula 05-14/09
-### Prof: Gilmar Barbosa 
+### Prof: Gilmar Gomes 
 ### **Aluno**:Raylan Cabral
 
 ## Arquitetura de Computadores ##
