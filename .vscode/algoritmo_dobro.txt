@@ -1,0 +1,7 @@
+public class algoritmo_dobro{
+public static void main (String[])
+
+
+
+
+}
